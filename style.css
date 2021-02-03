@@ -29,3 +29,15 @@ span
 #heading{
   font-size: 30px;
 }
+#view{
+  height: 250px;
+  width: 250px;
+  border-color: black;
+  border-width: 7px;
+  border-style: solid;
+}
+#snapshot{
+  height: 230px;
+  width: 250px;
+}
+
